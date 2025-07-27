@@ -1,3 +1,3 @@
 # apnacollege-demo
-this is my second github repo
+this is my second github repo \n
 Author : Aditya Sharma
